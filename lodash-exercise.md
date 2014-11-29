@@ -19,8 +19,9 @@ Given this **person** schema:
 	married: boolean
 }
 ```
-```javascript
 adult schema extends person with:
+
+```javascript
 children: {  // an object with key-value pairs, as firstName: person
 	'childName': {person},
 	'childName': {person},
