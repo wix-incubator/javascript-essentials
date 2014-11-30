@@ -5,12 +5,6 @@ Essential JavaScript resources for engineers who want to master JavaScript
 ####[Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html)
 This blog post enables you to get started with JavaScript as quickly as possible – if you already know how to program. It describes the smallest subset of the language that allows you to be productive.
 
-##Online Videos
-####[Douglas Crockford series of lectures about Javascript](http://yuiblog.com/crockford/)
-Starting in 2010 and through 2011, Douglas delivered his acclaimed series of lectures on the history of JavaScript, its features, and its use. Links to video, transcripts, and photos from each of the events follows.
-####[Douglas Crockford - The Better Parts](https://www.youtube.com/watch?v=PSGEjv3Tqo0)
-Douglas Crockford talking about the good and bad parts of ES6 and some "Good Parts" from previous talks he is not using anymore or using differently.
-
 ####[JavaScript Design Pattersn / Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 In this book we will explore applying both classical and modern design patterns to the JavaScript programming language.
 
@@ -21,8 +15,13 @@ This is a book about JavaScript, programming, and the wonders of the digital. Yo
 ####[DOM Enlightenment / Cody Lindley](http://www.domenlightenment.com/)
 Exploring the relationship between JavaScript and the modern HTML DOM
 
-##Online Courses
+##Online Videos
+####[Douglas Crockford series of lectures about Javascript](http://yuiblog.com/crockford/)
+Starting in 2010 and through 2011, Douglas delivered his acclaimed series of lectures on the history of JavaScript, its features, and its use. Links to video, transcripts, and photos from each of the events follows.
+####[Douglas Crockford - The Better Parts](https://www.youtube.com/watch?v=PSGEjv3Tqo0)
+Douglas Crockford talking about the good and bad parts of ES6 and some "Good Parts" from previous talks he is not using anymore or using differently.
 
+##Online Courses
 ####[JavaScript Fundamentals](http://www.pluralsight.com/courses/jscript-fundamentals) ([pluralsight](http://www.pluralsight.com/))
 Everything a beginner needs to get started programming with JavaScript
 
