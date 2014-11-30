@@ -17,20 +17,24 @@ Exploring the relationship between JavaScript and the modern HTML DOM
 
 ##Online Courses
 
-####[JavaScript Fundamentals](http://www.pluralsight.com/courses/jscript-fundamentals)
+####[JavaScript Fundamentals](http://www.pluralsight.com/courses/jscript-fundamentals) ([pluralsight](http://www.pluralsight.com/))
 Everything a beginner needs to get started programming with JavaScript
 
-####[JavaScript the Good Parts](http://www.pluralsight.com/courses/javascript-good-parts)
+####[JavaScript the Good Parts](http://www.pluralsight.com/courses/javascript-good-parts) ([pluralsight](http://www.pluralsight.com/))
 JavaScript has bad parts that many times overshadow it’s good parts. Douglas claims JavaScript has, "some of the best parts of any programming language ever created." He explains why in this course, quizzes you on functional programming and covers the monad in the final lecture of the course.
 
-####[JavaScript Design Patterns](http://www.pluralsight.com/courses/javascript-design-patterns)
+####[JavaScript Design Patterns](http://www.pluralsight.com/courses/javascript-design-patterns) ([pluralsight](http://www.pluralsight.com/))
 Useful design patterns for JavaScript development
 
-####[JavaScript Best Practices](https://www.codeschool.com/courses/javascript-best-practices)
+####[JavaScript Best Practices](https://www.codeschool.com/courses/javascript-best-practices) ([codeschool](https://www.codeschool.com/))
 Become a more informed, conscientious user of JavaScript as you explore time-tested, useful techniques that will improve legibility, performance quality, and safety in your scripts.
 
 ####[Secrets of the JavaScript Ninja](http://ejohn.org/apps/learn/)
 Learning advanced JavaScript
+
+##JavaScript Books
+#### [JavaScript: The Good Parts](http://www.amazon.co.uk/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by Douglas Crockford
+#### [JavaScript Patterns](http://www.amazon.co.uk/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752) by Stoyan Stefanov  (Author)
 
 ##React.js
 ####[Getting Started](http://facebook.github.io/react/docs/getting-started.html)
