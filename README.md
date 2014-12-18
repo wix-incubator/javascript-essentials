@@ -50,6 +50,7 @@ Facebook's React.js tutorial on Github
 - [Getting Started and Concepts](http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts)
 - [Build A Real-Time Twitter Stream with Node and React.js](http://scotch.io/tutorials/javascript/build-a-real-time-twitter-stream-with-node-and-react-js)
 - [Getting To Know Flux, the React.js Architecture](http://scotch.io/tutorials/javascript/getting-to-know-flux-the-react-js-architecture)
+- [Creating A Simple Shopping Cart with React.js and Flux](http://scotch.io/tutorials/javascript/creating-a-simple-shopping-cart-with-react-js-and-flux)
 
 ####[React Fundamentals](http://www.pluralsight.com/courses/react-fundamentals)
 React is a high-performance, reactive UI library for client-side web applications.
