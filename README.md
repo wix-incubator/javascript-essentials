@@ -46,6 +46,10 @@ Learning advanced JavaScript
 ####[Getting Started](http://facebook.github.io/react/docs/getting-started.html)
 Facebook's React.js tutorial on Github
 
+####React for Stupid People
+- [ReactJS for Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
+- [Flux for Stupid People](http://blog.andrewray.me/flux-for-stupid-people/)
+
 ####Learning Facebook's React.js
 - [Getting Started and Concepts](http://scotch.io/tutorials/javascript/learning-react-getting-started-and-concepts)
 - [Build A Real-Time Twitter Stream with Node and React.js](http://scotch.io/tutorials/javascript/build-a-real-time-twitter-stream-with-node-and-react-js)
