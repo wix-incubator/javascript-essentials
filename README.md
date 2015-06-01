@@ -17,7 +17,7 @@ This is a book about JavaScript, programming, and the wonders of the digital. Yo
 Exploring the relationship between JavaScript and the modern HTML DOM
 
 ##Online Videos
-####[Douglas Crockford series of lectures about Javascript](http://yuiblog.com/crockford/)
+####[Douglas Crockford series of lectures about Javascript](https://www.youtube.com/playlist?list=PL7664379246A246CB)
 Starting in 2010 and through 2011, Douglas delivered his acclaimed series of lectures on the history of JavaScript, its features, and its use. Links to video, transcripts, and photos from each of the events follows.
 ####[Douglas Crockford - The Better Parts](https://www.youtube.com/watch?v=PSGEjv3Tqo0)
 Douglas Crockford talking about the good and bad parts of ES6 and some "Good Parts" from previous talks he is not using anymore or using differently.
