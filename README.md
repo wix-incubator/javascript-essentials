@@ -6,7 +6,7 @@ If you are a beginner in JavaScript, we highly recommend [Wix Academy's Introduc
 ####[Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html)
 This blog post enables you to get started with JavaScript as quickly as possible – if you already know how to program. It describes the smallest subset of the language that allows you to be productive.
 
-####[JavaScript Design Pattersn / Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+####[JavaScript Design Patterns / Addy Osmani](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 In this book we will explore applying both classical and modern design patterns to the JavaScript programming language.
 
 ####[Eloquent JavaScript / Marijn Haverbeke](http://eloquentjavascript.net/)
